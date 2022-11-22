@@ -7,6 +7,9 @@ Using Jupyter Notebook, we are able to look at the data regarding math and readi
 recieves.
 With that data, we are able to make an analysis based on the school's spending, size, and type to see how they differ.
 
+### Tools used in the project
+**Jupyter Notebook**
+
 ## Results
 
 * How is the district summary affected?
